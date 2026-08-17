@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "1019275002158",
+        "firebase_url": "https://red-ff-tour-e1cfb-default-rtdb.firebaseio.com",
+        "project_id": "red-ff-tour-e1cfb",
+        "storage_bucket": "red-ff-tour-e1cfb.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1019275002158:android:28f35e355d7fc1d0593abf",
+                "android_client_info": {
+                    "package_name": "com.redfftour.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1019275002158-nqbg1db8p7ep0h37f3n02snvri6upegr.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAfEzylcvtdQFX_YRoPe6X2SPoA1e_jMzs"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1019275002158-nqbg1db8p7ep0h37f3n02snvri6upegr.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
